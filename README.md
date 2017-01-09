@@ -2,7 +2,7 @@
 
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Chuck-a-Luck-Game/master/screenshot.png "screenshot")
 
-From Wikipedia:
+**From Wikipedia:**
 
 ##Summary
 
