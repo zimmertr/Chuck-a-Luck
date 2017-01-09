@@ -1,4 +1,4 @@
-#Chuck a Luck Game
+#Chuck a Luck
 
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Chuck-a-Luck-Game/master/screenshot.png "screenshot")
 
