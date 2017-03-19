@@ -1,14 +1,14 @@
-#Chuck a Luck
+# Chuck a Luck
 
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Chuck-a-Luck-Game/master/screenshot.png "screenshot")
 
 **From Wikipedia:**
 
-##Summary
+## Summary
 
 Chuck-a-luck, also known as birdcage, is a game of chance played with three dice. It is derived from grand hazard and both can be considered a variant of sic bo, which is a popular casino game, although chuck-a-luck is more of a carnival game than a true casino game. The game is sometimes used as a fundraiser for charity.
 
-##Rules
+## Rules
 
 Chuck-a-luck is played with three standard dice that are kept in a device shaped somewhat like an hourglass that resembles a wire-frame bird cage and pivots about its centre. The dealer rotates the cage end over end, with the dice landing on the bottom.
 
